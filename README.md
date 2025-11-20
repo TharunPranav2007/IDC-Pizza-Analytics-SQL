@@ -141,18 +141,21 @@ The analysis produced several actionable insights:
 ## 🚀 How to Run
 
 ### **1. Clone the Repository**
-```bash
-git clone https://github.com/YOUR_USERNAME/IDC-Pizza-Analytics-SQL.git
 
-2. Set Up the Database
-Open MySQL Workbench
-Run sql_scripts/1_database_setup.sql
-Import all CSV files from the data folder using the Table Import Wizard
+`git clone https://github.com/YOUR_USERNAME/IDC-Pizza-Analytics-SQL.git`
 
-3. Execute Analysis
-Open sql_scripts/2_analysis_queries.sql
-Run each query to generate insights
-```
+### **2. Set Up the Database**
+ Open MySQL Workbench
+
+ Run `sql_scripts/1_database_setup.sql`
+ 
+ Import all CSV files from the data folder using the Table Import Wizard
+
+### **3. Execute Analysis**
+ Open `sql_scripts/2_analysis_queries.sql`
+
+ Run each query to generate insights
+
 
 ## 🤝 Acknowledgements
 Special thanks to the organizers:
