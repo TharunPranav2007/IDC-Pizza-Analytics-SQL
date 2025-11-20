@@ -164,10 +164,6 @@ Special thanks to the organizers:
 
 <div align="center">
 
-<img src="LOGO_PATH" alt="Project Logo" width="160" />
-
-<br><br>
-
 ### **Created by Tharun Pranav T**
 
 <a href="https://www.linkedin.com/in/tharunpranavt">
